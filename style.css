@@ -13,13 +13,14 @@ section {
 }
 
 .title {
-   width: auto;
+   width: 100%;
    text-align: center;
    background-color: black;
    color: aliceblue;
    padding: 20px;
    margin: 0;
    font-size: 260%;
+
 
 }
 
