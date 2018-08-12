@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+body {
+   padding: 0;
+   margin: 0;
+   width: auto;
+}
+
+section {
+   display: flex;
+   flex-direction: column;
+   height: 100%;
+   align-content: center;
+   justify-content: center;
+
+}
+
+.title {
+   width: auto;
+   text-align: center;
+   background-color: black;
+   color: aliceblue;
+   padding: 20px;
+   margin: 0;
+   font-size: 240%;
+
+}
+
+.autor {
+   width: auto;
+   text-align: center;
+   font-size: 200%;
+   padding: 0;
+
+
+}
+
+.text {
+
+   width: 80%;
+   flex-direction: row;
+   text-align: left;
+   font-family: 'Shadows Into Light', cursive;
+
+}
+
+.verse {
+   width: 40vw;
+   margin-left: 20px;
+   padding-bottom: 30px;
+   font-size: 110%
+}
+
+.container {
+   max-width: 1200px;
+   background-image: url(https://i.ytimg.com/vi/8tbP3f3i03E/maxresdefault.jpg);
+   background-repeat: no-repeat;
+   background-position: center, center;
+   border-style: solid;
+
+}
