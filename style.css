@@ -13,7 +13,7 @@ section {
 }
 
 .title {
-   width: auto;
+   width: 100%;
    text-align: center;
    background-color: black;
    color: aliceblue;
